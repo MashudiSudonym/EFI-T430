@@ -1,0 +1,146 @@
+14:222  6:981  Found BIOS RSDP at F0120
+14:222  0:000  Printing ACPI tables from RSDP F0120 ...
+14:222  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:222  0:000    (Xsdt: DAFFE170, Rsdt: DAFFE0D4)
+14:222  0:000    DAFFE170: 'XSDT', 'TP-G1', Rev: 1, Len: 204
+14:222  0:000    DAFFE0D4: 'RSDT', 'TP-G1', Rev: 1, Len: 120
+14:222  0:000    Tables in Xsdt: 21
+14:222  0:000    0. DAFE6000: 'FACP', 'TP-G1', Rev: 5, Len: 268
+14:222  0:000        (Dsdt: DAFE8000, Facs: DAF5A000, XDsdt: DAFE8000, XFacs: 0)
+14:222  0:000        DAFE8000: 'DSDT', 'TP-G1', Rev: 1, Len: 66551
+14:224  0:001        DAF5A000: 'FACS', Ver: 1, Len: 64
+14:224  0:000    1. DAFFD000: 'SLIC', 'TP-G1', Rev: 1, Len: 374
+14:224  0:000    2. DAFFC000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+14:224  0:000    3. DAFFB000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1032
+14:224  0:000    4. DAFFA000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+14:224  0:000    5. DAFF9000: 'SSDT', 'SataAhci', Rev: 1, Len: 1943
+14:224  0:000    6. DAFE4000: 'HPET', 'TP-G1', Rev: 1, Len: 56
+14:224  0:000    7. DAFE3000: 'APIC', 'TP-G1', Rev: 1, Len: 152
+14:224  0:000    8. DAFE2000: 'MCFG', 'TP-G1', Rev: 1, Len: 60
+14:224  0:000    9. DAFE1000: 'ECDT', 'TP-G1', Rev: 1, Len: 82
+14:224  0:000    10. DAFE0000: 'FPDT', 'TP-G1', Rev: 1, Len: 100
+14:224  0:000    11. DAFE7000: 'ASF!', 'TP-G1', Rev: 32, Len: 165
+14:224  0:000    12. DAFDF000: 'UEFI', 'TP-G1', Rev: 1, Len: 62
+14:224  0:000    13. DAFDE000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+14:224  0:000    14. DAFDD000: 'POAT', 'TP-G1', Rev: 3, Len: 85
+14:224  0:000    15. DAFDC000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 3153
+14:224  0:000    16. DAFDB000: 'SSDT', 'CpuPm', Rev: 1, Len: 2691
+14:224  0:000    17. DAFDA000: 'DMAR', 'SNB', Rev: 1, Len: 184
+14:224  0:000    18. DAFD9000: 'SSDT', 'IffsAsl', Rev: 1, Len: 208
+14:224  0:000    19. DAFD8000: 'UEFI', 'TP-G1', Rev: 1, Len: 658
+14:224  0:000    20. DAFD7000: 'DBG2', 'TP-G1', Rev: 0, Len: 233
+14:224  0:000    Tables in Rsdt: 21
+14:224  0:000    0. DAFE5000: 'FACP', 'TP-G1', Rev: 4, Len: 244
+14:224  0:000        (Dsdt: DAFE8000, Facs: DAF5A000, XDsdt: 0, XFacs: 0)
+14:224  0:000        DAFE8000: 'DSDT', 'TP-G1', Rev: 1, Len: 66551
+14:225  0:001        DAF5A000: 'FACS', Ver: 1, Len: 64
+14:225  0:000    1. DAFFD000: 'SLIC', 'TP-G1', Rev: 1, Len: 374
+14:225  0:000    2. DAFFC000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+14:225  0:000    3. DAFFB000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1032
+14:225  0:000    4. DAFFA000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+14:225  0:000    5. DAFF9000: 'SSDT', 'SataAhci', Rev: 1, Len: 1943
+14:225  0:000    6. DAFE4000: 'HPET', 'TP-G1', Rev: 1, Len: 56
+14:225  0:000    7. DAFE3000: 'APIC', 'TP-G1', Rev: 1, Len: 152
+14:225  0:000    8. DAFE2000: 'MCFG', 'TP-G1', Rev: 1, Len: 60
+14:225  0:000    9. DAFE1000: 'ECDT', 'TP-G1', Rev: 1, Len: 82
+14:225  0:000    10. DAFE0000: 'FPDT', 'TP-G1', Rev: 1, Len: 100
+14:225  0:000    11. DAFE7000: 'ASF!', 'TP-G1', Rev: 32, Len: 165
+14:225  0:000    12. DAFDF000: 'UEFI', 'TP-G1', Rev: 1, Len: 62
+14:225  0:000    13. DAFDE000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+14:225  0:000    14. DAFDD000: 'POAT', 'TP-G1', Rev: 3, Len: 85
+14:225  0:000    15. DAFDC000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 3153
+14:225  0:000    16. DAFDB000: 'SSDT', 'CpuPm', Rev: 1, Len: 2691
+14:225  0:000    17. DAFDA000: 'DMAR', 'SNB', Rev: 1, Len: 184
+14:225  0:000    18. DAFD9000: 'SSDT', 'IffsAsl', Rev: 1, Len: 208
+14:225  0:000    19. DAFD8000: 'UEFI', 'TP-G1', Rev: 1, Len: 658
+14:225  0:000    20. DAFD7000: 'DBG2', 'TP-G1', Rev: 0, Len: 233
+14:225  0:000  Found UEFI Acpi 2.0 RSDP at DAFFE014
+14:225  0:000  Saving ACPI tables from RSDP DAFFE014 to EFI\CLOVER\ACPI\origin ...
+14:225  0:000   DAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+14:790  0:564    (Xsdt: DAFFE170, Rsdt: DAFFE0D4)
+14:790  0:000    DAFFE170: 'XSDT', 'TP-G1', Rev: 1, Len: 204 -> XSDT.aml
+15:252  0:462    DAFFE0D4: 'RSDT', 'TP-G1', Rev: 1, Len: 120 -> RSDT.aml
+15:715  0:462    Tables in Xsdt: 21
+15:715  0:000    0. DAFE6000: 'FACP', 'TP-G1', Rev: 5, Len: 268 -> FACP.aml
+16:191  0:475        (Dsdt: DAFE8000, Facs: DAF5A000, XDsdt: DAFE8000, XFacs: 0)
+16:191  0:000        DAFE8000: 'DSDT', 'TP-G1', Rev: 1, Len: 66551 -> DSDT.aml
+17:128  0:937        DAF5A000: 'FACS', Ver: 1, Len: 64 -> FACS.aml
+17:996  0:867    1. DAFFD000: 'SLIC', 'TP-G1', Rev: 1, Len: 374 -> SLIC.aml
+18:458  0:462    2. DAFFC000: 'TCPA', 'LENOVO', Rev: 2, Len: 50 -> TCPA.aml
+18:921  0:463    3. DAFFB000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1032 -> SSDT-0-TP-SSDT2.aml
+19:792  0:870    4. DAFFA000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51 -> SSDT-1-TP-SSDT1.aml
+20:254  0:462    5. DAFF9000: 'SSDT', 'SataAhci', Rev: 1, Len: 1943 -> SSDT-2-SataAhci.aml
+21:633  1:379    6. DAFE4000: 'HPET', 'TP-G1', Rev: 1, Len: 56 -> HPET.aml
+22:097  0:464    7. DAFE3000: 'APIC', 'TP-G1', Rev: 1, Len: 152 -> APIC.aml
+22:939  0:842    8. DAFE2000: 'MCFG', 'TP-G1', Rev: 1, Len: 60 -> MCFG.aml
+23:401  0:461    9. DAFE1000: 'ECDT', 'TP-G1', Rev: 1, Len: 82 -> ECDT.aml
+23:866  0:464    10. DAFE0000: 'FPDT', 'TP-G1', Rev: 1, Len: 100 -> FPDT.aml
+24:326  0:460    11. DAFE7000: 'ASF!', 'TP-G1', Rev: 32, Len: 165 -> ASF!.aml
+25:564  1:238    12. DAFDF000: 'UEFI', 'TP-G1', Rev: 1, Len: 62 -> UEFI.aml
+26:029  0:464    13. DAFDE000: 'UEFI', 'COMBUF', Rev: 1, Len: 66 -> UEFI.aml
+26:489  0:460    14. DAFDD000: 'POAT', 'TP-G1', Rev: 3, Len: 85 -> POAT.aml
+26:929  0:439    15. DAFDC000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 3153 -> SSDT-3-Cpu0Ist.aml
+27:390  0:460    16. DAFDB000: 'SSDT', 'CpuPm', Rev: 1, Len: 2691 -> SSDT-4-CpuPm.aml (Found hidden SSDT 4 pcs)
+29:049  1:659        * D3429018: 'pifc', '0sBÓ', Rev: 24, Len: 0  70 69 66 63 00 00 00 00 18 73 42 D3 00 00 00 00 
+29:049  0:000        * DAE3DA98: 'SSDT', 'ApIst', Rev: 1, Len: 771  53 53 44 54 03 03 00 00 01 83 50 6D 52 65 66 00 Internal length = 771 -> SSDT-x4_0-ApIst.aml
+29:574  0:524        * DAE3C018: 'SSDT', 'Cpu0Cst', Rev: 1, Len: 2561  53 53 44 54 01 0A 00 00 01 ED 50 6D 52 65 66 00 Internal length = 2561 -> SSDT-x4_1-Cpu0Cst.aml
+30:036  0:462        * DAE3BD98: 'SSDT', 'ApCst', Rev: 1, Len: 281  53 53 44 54 19 01 00 00 01 F9 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x4_2-ApCst.aml
+30:498  0:462  
+30:498  0:000    17. DAFDA000: 'DMAR', 'SNB', Rev: 1, Len: 184 -> DMAR.aml
+31:344  0:845    18. DAFD9000: 'SSDT', 'IffsAsl', Rev: 1, Len: 208 -> SSDT-5-IffsAsl.aml
+31:662  0:317    19. DAFD8000: 'UEFI', 'TP-G1', Rev: 1, Len: 658 -> UEFI.aml
+32:599  0:937    20. DAFD7000: 'DBG2', 'TP-G1', Rev: 0, Len: 233 -> DBG2.aml
+33:034  0:435    Tables in Rsdt: 21
+33:034  0:000    0. DAFE5000: 'FACP', 'TP-G1', Rev: 4, Len: 244 -> RSDT-FACP.aml
+34:000  0:965        (Dsdt: DAFE8000, Facs: DAF5A000, XDsdt: 0, XFacs: 0)
+34:000  0:000        DAFE8000: 'DSDT', 'TP-G1', Rev: 1, Len: 66551
+34:001  0:001        DAF5A000: 'FACS', Ver: 1, Len: 64
+34:001  0:000    1. DAFFD000: 'SLIC', 'TP-G1', Rev: 1, Len: 374
+34:001  0:000    2. DAFFC000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+34:001  0:000    3. DAFFB000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1032
+34:001  0:000    4. DAFFA000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+34:001  0:000    5. DAFF9000: 'SSDT', 'SataAhci', Rev: 1, Len: 1943
+34:001  0:000    6. DAFE4000: 'HPET', 'TP-G1', Rev: 1, Len: 56
+34:001  0:000    7. DAFE3000: 'APIC', 'TP-G1', Rev: 1, Len: 152
+34:001  0:000    8. DAFE2000: 'MCFG', 'TP-G1', Rev: 1, Len: 60
+34:001  0:000    9. DAFE1000: 'ECDT', 'TP-G1', Rev: 1, Len: 82
+34:001  0:000    10. DAFE0000: 'FPDT', 'TP-G1', Rev: 1, Len: 100
+34:001  0:000    11. DAFE7000: 'ASF!', 'TP-G1', Rev: 32, Len: 165
+34:001  0:000    12. DAFDF000: 'UEFI', 'TP-G1', Rev: 1, Len: 62
+34:001  0:000    13. DAFDE000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+34:001  0:000    14. DAFDD000: 'POAT', 'TP-G1', Rev: 3, Len: 85
+34:001  0:000    15. DAFDC000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 3153
+34:001  0:000    16. DAFDB000: 'SSDT', 'CpuPm', Rev: 1, Len: 2691
+34:001  0:000    17. DAFDA000: 'DMAR', 'SNB', Rev: 1, Len: 184
+34:001  0:000    18. DAFD9000: 'SSDT', 'IffsAsl', Rev: 1, Len: 208
+34:001  0:000    19. DAFD8000: 'UEFI', 'TP-G1', Rev: 1, Len: 658
+34:001  0:000    20. DAFD7000: 'DBG2', 'TP-G1', Rev: 0, Len: 233
+34:001  0:000  Found UEFI Acpi 1.0 RSDP at DAFFE000
+34:001  0:000  Printing ACPI tables from RSDP DAFFE000 ...
+34:001  0:000   DAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+34:001  0:000    (Rsdt: DAFFE038)
+34:001  0:000    DAFFE038: 'RSDT', 'TP-G1', Rev: 1, Len: 116
+34:001  0:000    Tables in Rsdt: 20
+34:001  0:000    0. DAFE5000: 'FACP', 'TP-G1', Rev: 4, Len: 244
+34:001  0:000        (Dsdt: DAFE8000, Facs: DAF5A000, XDsdt: 0, XFacs: 0)
+34:001  0:000        DAFE8000: 'DSDT', 'TP-G1', Rev: 1, Len: 66551
+34:003  0:001        DAF5A000: 'FACS', Ver: 1, Len: 64
+34:003  0:000    1. DAFFC000: 'TCPA', 'LENOVO', Rev: 2, Len: 50
+34:003  0:000    2. DAFFB000: 'SSDT', 'TP-SSDT2', Rev: 1, Len: 1032
+34:003  0:000    3. DAFFA000: 'SSDT', 'TP-SSDT1', Rev: 1, Len: 51
+34:003  0:000    4. DAFF9000: 'SSDT', 'SataAhci', Rev: 1, Len: 1943
+34:003  0:000    5. DAFE4000: 'HPET', 'TP-G1', Rev: 1, Len: 56
+34:003  0:000    6. DAFE3000: 'APIC', 'TP-G1', Rev: 1, Len: 152
+34:003  0:000    7. DAFE2000: 'MCFG', 'TP-G1', Rev: 1, Len: 60
+34:003  0:000    8. DAFE1000: 'ECDT', 'TP-G1', Rev: 1, Len: 82
+34:003  0:000    9. DAFE0000: 'FPDT', 'TP-G1', Rev: 1, Len: 100
+34:003  0:000    10. DAFE7000: 'ASF!', 'TP-G1', Rev: 32, Len: 165
+34:003  0:000    11. DAFDF000: 'UEFI', 'TP-G1', Rev: 1, Len: 62
+34:003  0:000    12. DAFDE000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+34:003  0:000    13. DAFDD000: 'POAT', 'TP-G1', Rev: 3, Len: 85
+34:003  0:000    14. DAFDC000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 3153
+34:003  0:000    15. DAFDB000: 'SSDT', 'CpuPm', Rev: 1, Len: 2691
+34:003  0:000    16. DAFDA000: 'DMAR', 'SNB', Rev: 1, Len: 184
+34:003  0:000    17. DAFD9000: 'SSDT', 'IffsAsl', Rev: 1, Len: 208
+34:003  0:000    18. DAFD8000: 'UEFI', 'TP-G1', Rev: 1, Len: 658
+34:003  0:000    19. DAFD7000: 'DBG2', 'TP-G1', Rev: 0, Len: 233
